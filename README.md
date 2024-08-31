@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Gabriel Eduria
-#### I am a FULL-STACK-DEVELOPER
+#### Software Engineer
 
 ![github-header-image(1)](https://github.com/user-attachments/assets/458c9358-9500-422f-9537-2511439471cd)
 
